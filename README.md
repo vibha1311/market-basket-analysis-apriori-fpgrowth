@@ -9,7 +9,7 @@ This project performs **Market Basket Analysis** on a grocery transaction datase
 - The dataset contains grocery transactions.  
 - Each row represents a single transaction and each column contains an item purchased in that transaction.  
 - Missing values (`NaN`) indicate no item in that column for the transaction.  
-- Source: [Your dataset source or “provided CSV file”]
+- Source: https://www.kaggle.com/datasets/irfanasrullah/groceries/data?select=groceries+-+groceries.csv
 
 ---
 
